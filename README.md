@@ -1,15 +1,15 @@
-# Elysia with Bun runtime
+# Dummy Disc
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
+An api that returns dummy data for testing purposes using Bun, ElysiaJS & fakerjs. It provides all sorts of dummy data such as users, posts, comments, placeholder images, etc.
+
+## Installation
+
 ```bash
-bun create elysia ./elysia-example
+bun install
 ```
 
-## Development
-To start the development server run:
+## Usage
+
 ```bash
 bun run dev
 ```
-
-Open http://localhost:3000/ with your browser to see the result.
